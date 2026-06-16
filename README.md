@@ -12,7 +12,7 @@ Read the full paper here: https://aclanthology.org/2023.sealp-1.6.pdf
 # Reference
 
 @inproceedings{raihan2023sentmix,<br>
-  title={Sentmix-3l: A novel code-mixed test dataset in bangla-english-hindi for sentiment analysis},<br>
+  title={Sentmix-3L: A novel code-mixed test dataset in bangla-english-hindi for sentiment analysis},<br>
   author={Raihan, Nishat and Goswami, Dhiman and Mahmud, Antara and Anastasopoulos, Antonios and Zampieri, Marcos},<br>
   booktitle={Proceedings of the first workshop in South East Asian language processing},<br>
   pages={79--84},<br>
